@@ -1,0 +1,59 @@
+.jumbotron {
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 200px;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 25px;
+}
+.carousel-item hr {
+    border-color: black;
+    width: 100px;
+    border-width: 3px;
+}
+
+.jumbotron .btn {
+    background-color: #F05F40;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px ;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 750px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+  .container-fluid{
+      text-align: center;
+      background-color: black;
+      color: burlywood;
+      padding: 100px;
+  }
+
+  .container-color {
+    text-align: center;
+    background-color: black;
+    color: burlywood;
+
+  }
+
+  .white-section {
+    background-color: #fff;
+  }
